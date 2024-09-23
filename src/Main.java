@@ -44,6 +44,6 @@ public class Main {
         var totalStaffNum2= totalStaffNum + 94;
         var totalHours2 = totalStaffNum2 * 8;
         System.out.println("   Если в компании работает " + totalStaffNum2 + " человек, " +
-        "то всего " + totalHours2 + " часов работы может быть поделено между сотрудниками123");
+        "то всего " + totalHours2 + " часов работы может быть поделено между сотрудниками");
     }
 }
